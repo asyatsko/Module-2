@@ -18,7 +18,7 @@ body {
 .text_img {
     width: 1150px;
     height: 750px;
-    background-image: url(../style_design.jpg);
+    background-image: url(/style_design.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 12px;
